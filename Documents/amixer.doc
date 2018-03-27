@@ -1,0 +1,6 @@
+Envoyer le son sur la prise jack:
+amixer cset numid=3 1
+
+Envoyer le son sur le connecteur HDMI:
+amixer cset numid=3 2
+
